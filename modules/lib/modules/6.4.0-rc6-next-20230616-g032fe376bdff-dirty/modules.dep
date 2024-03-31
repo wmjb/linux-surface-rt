@@ -1,0 +1,15 @@
+kernel/fs/efivarfs/efivarfs.ko:
+kernel/drivers/gpu/drm/i2c/ch7006.ko:
+kernel/drivers/gpu/drm/i2c/sil164.ko:
+kernel/drivers/net/wireless/marvell/mwifiex/mwifiex.ko:
+kernel/drivers/net/wireless/marvell/mwifiex/mwifiex_sdio.ko: kernel/drivers/net/wireless/marvell/mwifiex/mwifiex.ko
+kernel/drivers/input/mouse/elan_i2c.ko:
+kernel/drivers/i2c/busses/i2c-cros-ec-tunnel.ko:
+kernel/drivers/media/spi/cxd2880-spi.ko:
+kernel/drivers/thermal/tegra/tegra-soctherm.ko:
+kernel/drivers/thermal/tegra/tegra30-tsensor.ko:
+kernel/drivers/bluetooth/btusb.ko: kernel/drivers/bluetooth/btrtl.ko kernel/drivers/bluetooth/btintel.ko
+kernel/drivers/bluetooth/btintel.ko:
+kernel/drivers/bluetooth/btrtl.ko:
+kernel/drivers/platform/chrome/cros_ec_i2c.ko:
+kernel/drivers/platform/chrome/cros_ec_spi.ko:
